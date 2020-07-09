@@ -2,6 +2,8 @@
                 "type": "field",
                 "domain": [
                     "domain:360.com"
+                  “ domain：ninecommentaries.com ”，
+                  "domain:falundafa.org",
                 ],
                 "outboundTag": "blocked"
  }
